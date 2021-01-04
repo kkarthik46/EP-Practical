@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Employees SYSTEM "employeevalidation.dtd"> 
+<Employees>
+	<employee eid="a">
+		<name>Naveen</name>
+		<emailid>k@c.c</emailid>
+	</employee>
+
+	<employee eid="b">
+		<name>Naveen</name>
+		<emailid>n@c.c</emailid>
+	</employee>
+	
+</Employees>
